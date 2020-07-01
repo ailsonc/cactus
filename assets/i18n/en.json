@@ -1,0 +1,42 @@
+{
+	"language": {
+		"english": "English",
+		"portuguese": "Portuguese"
+	},
+	"navbar": {
+		"home": "Home",
+		"main": "Main",
+		"team": "Team",
+		"contact": "Contact"
+	},
+	"page": {
+		"title": "We create the best for you ...",
+		"resumo": "We are here to transform ..."
+	},
+	"contact": {
+		"title" : "Our contact",
+		"description": "Vamos bater um papo e falar de negócios."
+	},
+	"team": {
+		"title" : "Here is our team",
+		"ailsonCosta" : {
+			"title" : "UX|UI Designer",
+			"description": "UI/UX Designer responsibilities include gathering user requirements, designing graphic elements and building navigation components."
+		},
+		"felipeAndrade" : {
+			"title" : "System Analyst",
+			"description": "UI/UX Designer responsibilities include gathering user requirements, designing graphic elements and building navigation components."
+		},
+		"thiagoMenezes" : {
+			"title" : "Technical leader | DevOps",
+			"description": "UI/UX Designer responsibilities include gathering user requirements, designing graphic elements and building navigation components."
+		},
+		"tiagoBarreto" : {
+			"title" : "System Analyst",
+			"description": "UI/UX Designer responsibilities include gathering user requirements, designing graphic elements and building navigation components."
+		}
+	},
+	"footer" : {
+		"allRightsReserved": "All rights reserved."
+	}
+}

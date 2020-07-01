@@ -1,0 +1,42 @@
+{
+	"language": {
+		"english": "Inglês",
+		"portuguese": "Português"
+	},
+	"navbar": {
+		"home": "Home",
+		"main": "Principal",
+		"team": "Equipe",
+		"contact": "Contato"
+	},
+	"page": {
+		"title": "Criamos o melhor pra você...",
+		"resumo": "Estamos aqui para transformar..."
+	},	
+	"contact": {
+		"title" : "Nosso Contato",
+		"description": "Let's chat about work."
+	},
+	"team": {
+		"title" : "Aqui está a nossa equipe",
+		"ailsonCosta" : {
+			"title" : "UX|UI Designer",
+			"description": "As responsabilidades do UI / UX Designer incluem reunir requisitos do usuário, projetar elementos gráficos e criar componentes de navegação."
+		},
+		"felipeAndrade" : {
+			"title" : "System Analyst",
+			"description": "As responsabilidades do UI / UX Designer incluem reunir requisitos do usuário, projetar elementos gráficos e criar componentes de navegação."
+		},
+		"thiagoMenezes" : {
+			"title" : "Líder técnico | DevOps",
+			"description": "As responsabilidades do UI / UX Designer incluem reunir requisitos do usuário, projetar elementos gráficos e criar componentes de navegação."
+		},
+		"tiagoBarreto" : {
+			"title" : "System Analyst",
+			"description": "As responsabilidades do UI / UX Designer incluem reunir requisitos do usuário, projetar elementos gráficos e criar componentes de navegação."
+		}
+	},
+		"footer" : {
+		"allRightsReserved": "Todos os direitos reservados."
+	}
+}	
